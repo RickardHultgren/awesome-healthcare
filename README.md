@@ -156,6 +156,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [OpenHIM](http://openhim.org/) - Health information mediator.
   * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
+  * [LYMPHA - A programming language for medical algorithms](https://lympha.readthedocs.io/en/latest/)
 
 ### Hardware
   * [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
